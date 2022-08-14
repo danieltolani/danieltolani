@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/-Instagram-%23ff5798" alt="Twitter" /></a>
 </p>
 
-### I am a Creative Developer passionate about building interactive digital products.
+### I'm a Creative Developer <br> ### passionate about building interactive digital products.
   
   * 🤙 HAPPY TO DISCUSS YOUR PROJECT, <a href="#"> Let’s talk! 👋 </a>
   
