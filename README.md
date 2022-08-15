@@ -15,7 +15,7 @@
   
   * 🤙 HAPPY TO DISCUSS YOUR PROJECT, <a href="#"> Let’s talk! 👋 </a>
   
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=danieltolani&show_icons=true&include_all_commits=true&title_color=ffffff&theme=dracula&icon_color=#7FFF00)
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=danieltolani&show_icons=true&title_color=ffffff&theme=dracula&icon_color=#7FFF00)
   
   <h3>Technologies</h3>
 <p>
